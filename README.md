@@ -1,14 +1,14 @@
-# Poesia
+# poesia
 
-> Olha só que céu lindo :D
+> olha só que céu lindo :D
 
-## Local deploy
+## local deploy
 
 `$ make serve`
 
-## Production deploy
+## production deploy
 
-On branch gh-pages
+on branch gh-pages
 
 `$ git add`
 
