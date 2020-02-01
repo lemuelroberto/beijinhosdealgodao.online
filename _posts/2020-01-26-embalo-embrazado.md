@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "embalo embrazado"
-author: "Lemuel Roberto Bonifácio"
+author: "lemuel roberto bonifácio"
 date: "2020-01-26 06:00:00 -0300"
 meta: "poesia"
 ---

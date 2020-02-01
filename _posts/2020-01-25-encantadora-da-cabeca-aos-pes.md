@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "encantadora da cabeça aos pés"
-author: "Lemuel Roberto Bonifácio"
+author: "lemuel roberto bonifácio"
 date: "2020-01-25 06:00:00 -0300"
 meta: "poesia"
 ---

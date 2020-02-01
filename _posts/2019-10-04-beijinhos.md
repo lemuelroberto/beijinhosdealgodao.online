@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "beijinhos"
-author: "Lemuel Roberto Bonifácio"
+author: "lemuel roberto bonifácio"
 date: "2019-10-04 06:00:00 -0300"
 meta: "poesia"
 ---

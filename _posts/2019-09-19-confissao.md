@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "confissão"
-author: "Lemuel Roberto Bonifácio"
+author: "lemuel roberto bonifácio"
 date: "2019-09-19 06:00:00 -0300"
 meta: "poesia"
 ---

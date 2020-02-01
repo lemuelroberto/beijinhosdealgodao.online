@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "seu xoteado"
-author: "Lemuel Roberto Bonifácio"
+author: "lemuel roberto bonifácio"
 date: "2018-10-20 06:00:00 -0300"
 meta: "poesia haikai"
 ---
