@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "beijinhos"
+title: "beijinhos de algodão"
 author: "lemuel roberto bonifácio"
 date: "2019-10-04 06:00:00 -0300"
 meta: "poesia"
