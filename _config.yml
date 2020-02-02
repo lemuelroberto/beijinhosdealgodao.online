@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   poesias pra adoçar a alma ;)
 baseurl: ""
 twitter_username: lemuelroberto
-google_analytics: UA-157522615-1
+google_analytics: UA-157565384-1
 minima:
   date_format: "%b %-d, %Y"
 
