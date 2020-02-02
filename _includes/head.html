@@ -7,7 +7,10 @@
     {% if page.title %}{{ page.title }}, por {{ page.author }}{% else %}{{ site.title }}{% endif %}
   </title>
 
+  <meta name="author" content="{{ site.author }}">
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="keywords" content="poesia, poema, haicai, haiku, poetry, poem">
+
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
