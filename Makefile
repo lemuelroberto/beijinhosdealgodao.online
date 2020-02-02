@@ -1,6 +1,6 @@
 PROJECT_PATH=$(shell pwd)
 IMAGE=jekyll/jekyll:latest
-CONTAINER_NAME=poesia.lemuelroberto.online
+CONTAINER_NAME=beijinhosdealgodao.online
 
 .PHONY: serve
 serve:
