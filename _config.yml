@@ -6,7 +6,7 @@ baseurl: ""
 twitter_username: lemuelroberto
 google_analytics: UA-157565384-1
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%b, %Y"
 
 exclude:
   - README.md
