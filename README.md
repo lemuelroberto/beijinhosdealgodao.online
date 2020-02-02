@@ -1,6 +1,6 @@
 #  beijinhosdealgodao.online
 
-> olha só que céu lindo :D
+> poesias pra adoçar a alma
 
 ## local deploy
 
